@@ -64,7 +64,7 @@
     </h2><br>
     <img align="right" src="https://readme-jokes.vercel.app/api?theme=dracula"/>
 </section>
-<br><br><br><br>
+<br><br><br>
 
 <section class="connect" align="left">
     <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500">
@@ -77,31 +77,31 @@
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td style="overflow:hidden; word-break:normal">
+          <tr style="overflow:hidden">
+            <td>
                 <img src="./Assets/svg/linkedin.svg" alt="linkedin" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden; word-break:normal">
+            <td style="font-size: 18px; font-family: 'Dosis'">
                 <a href="https://www.linkedin.com/in/juliannevela" target="_blank" rel="noopener noreferrer">
                     @juliannevela
                 </a>
             </td>
           </tr>
-          <tr>
-            <td style="overflow:hidden; word-break:normal">
+          <tr style="overflow:hidden">
+            <td>
                 <img src="./Assets/svg/twitter.svg" alt="twitter" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden; word-break:normal">
+            <td style="font-size: 18px; font-family: 'Dosis'">
                 <a href="https://www.twitter.com/NessimaSkye" target="_blank" rel="noopener noreferrer">
                     @NessimaSkye
                 </a>
             </td>
           </tr>
-          <tr>
-            <td style="overflow:hidden; word-break:normal">
+          <tr style="overflow:hidden">
+            <td>
                 <img src="./Assets/svg/github.svg" alt="github" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden; word-break:normal">
+            <td style="font-size: 18px; font-family: 'Dosis'">
                 <a href="https://www.github.com/julianne-vela" target="_blank" rel="noopener noreferrer">
                     @julianne-vela
                 </a>
@@ -122,11 +122,11 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
+            <tr style="overflow:hidden">
                 <td style="font-size:18px; font-family: 'Dosis',  sans-serif; text-align:left">
                     Languages
                 </td>
-                <td colspan="3" style="align-items:right">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/javascript.svg" 
                         alt="javascript" 
@@ -154,11 +154,11 @@
                         height="40">
                 </td>
             </tr>
-            <tr>
-                <td style="font-size:18px; font-family: 'Dosis', sans-serif">
+            <tr style="overflow:hidden">
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right">
                     Libraries &amp;<br>Frameworks
                 </td>
-                <td colspan="3">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/react.svg" 
                         alt="react" 
@@ -181,11 +181,11 @@
                         height="40">
                 </td>
             </tr>
-            <tr>
-                <td style="font-size:18px; font-family: 'Dosis', sans-serif">
+            <tr style="overflow:hidden">
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right">
                     Tools
                 </td>
-                <td colspan="3">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/postgresql.svg" 
                         alt="postgresql" 
@@ -218,11 +218,11 @@
                         height="40">
                 </td>
             </tr>
-            <tr>
-                <td style="font-size:18px; font-family: 'Dosis', sans-serif">
+            <tr style="overflow:hidden">
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right">
                     Continuous<br>Delivery
                 </td>
-                <td colspan="3">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/heroku.svg" 
                         alt="heroku" 
@@ -235,11 +235,11 @@
                         height="40">
                 </td>
             </tr>
-            <tr>
-                <td style="font-size:18px; font-family: 'Dosis', sans-serif">
+            <tr style="overflow:hidden">
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right">
                     OS
                 </td>
-                <td colspan="3">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/linux.svg" 
                         alt="linux" 
