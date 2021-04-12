@@ -1,4 +1,4 @@
-![profile banner](https://raw.githubusercontent.com/julianne-vela/julianne-vela/main/JulianneVela-Banner.png?token=ASBX2QRNFXRA6XF22OBVLG3APTHTU)
+![profile banner](./Assets/JulianneVela-Banner.png)
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Dosis&family=Exo+2:wght@500;900&display=swap" rel="stylesheet">
