@@ -60,10 +60,11 @@
 <section class="jokes" align="right">
     <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
         Some Programming Humor for you 
-        <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'>
-    </h2>
-        <img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula"/>
+        <img align="right" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="75px">
+    </h2><br>
+    <img align="right" src="https://readme-jokes.vercel.app/api?theme=dracula"/>
 </section>
+<br><br>
 
 <section class="connect" align="left">
     <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500">
@@ -259,8 +260,7 @@
         </tbody>
     </table>
 </section>
-<br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <section class="stats" align="left">
     <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
