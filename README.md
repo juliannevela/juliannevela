@@ -1,4 +1,4 @@
-![profile banner](https://raw.githubusercontent.com/julianne-vela/julianne-vela/main/JulianneVela-Banner.png?token=ASBX2QRNFXRA6XF22OBVLG3APTHTU)
+![profile banner](./Assets/JulianneVela-Banner.png)
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Dosis&family=Exo+2:wght@500;900&display=swap" rel="stylesheet">
@@ -58,58 +58,62 @@
 </section>
 
 <section class="jokes" align="right">
-    <h2 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:900"> 
+    <h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
         Some Programming Humor for you 
         <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'>
-    </h2>
+    </h1>
         <img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula"/>
 </section>
 
-<table class="connect">
-<thead>
-  <tr>
-    <th colspan="2" style="font-size:28px; font-family: 'Exo 2', sans-serif;">
-        Connect With Me
+<section class="connect" align="left">
+    <h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:500">
+        Connect With Me!
         <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="animated handshake" width="100" height="46">
-    </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-        <img src="./Assets/svg/linkedin.svg" alt="linkedin" width="40" height="40">
-    </td>
-    <td style="font-size: 18px; font-family: 'Dosis';">
-        <a href="https://www.linkedin.com/in/juliannevela" target="_blank" rel="noopener noreferrer">
-            @juliannevela
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <img src="./Assets/svg/twitter.svg" alt="twitter" width="40" height="40">
-    </td>
-    <td style="font-size: 18px; font-family: 'Dosis';">
-        <a href="https://www.twitter.com/NessimaSkye" target="_blank" rel="noopener noreferrer">
-            @NessimaSkye
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <img src="./Assets/svg/github.svg" alt="github" width="40" height="40">
-    </td>
-    <td style="font-size: 18px; font-family: 'Dosis';">
-        <a href="https://www.github.com/julianne-vela" target="_blank" rel="noopener noreferrer">
-            @julianne-vela
-        </a>
-    </td>
-  </tr>
-</tbody>
-</table>
+    </h1>
+    <table align="left">
+        <thead>
+          <tr>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+                <img src="./Assets/svg/linkedin.svg" alt="linkedin" width="40" height="40">
+            </td>
+            <td style="font-size: 18px; font-family: 'Dosis';">
+                <a href="https://www.linkedin.com/in/juliannevela" target="_blank" rel="noopener noreferrer">
+                    @juliannevela
+                </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <img src="./Assets/svg/twitter.svg" alt="twitter" width="40" height="40">
+            </td>
+            <td style="font-size: 18px; font-family: 'Dosis';">
+                <a href="https://www.twitter.com/NessimaSkye" target="_blank" rel="noopener noreferrer">
+                    @NessimaSkye
+                </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <img src="./Assets/svg/github.svg" alt="github" width="40" height="40">
+            </td>
+            <td style="font-size: 18px; font-family: 'Dosis';">
+                <a href="https://www.github.com/julianne-vela" target="_blank" rel="noopener noreferrer">
+                    @julianne-vela
+                </a>
+            </td>
+          </tr>
+        </tbody>
+    </table>
+</section>
 <br>
 
-<table class="tech-skills" align="right">
+<section class="tech-skills" align="right">
+<h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:500" align="right"> Skills & Tech </h1>
+<table align="right">
     <thead>
         <tr>
             <th style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:900" colspan="4">
@@ -253,19 +257,18 @@
         </tr>
     </tbody>
 </table>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+</section>
 
 <section class="stats" align="left">
-    <h2 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:900"> 
+    <h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:900"> 
         My GitHub Stats 
-    </h2>
+    </h1>
     <a align="left" href="https://github.com/anuraghazra/convoychat">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianne-vela&theme=dracula" />
     </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=julianne-vela&count_private=true&show_icons=true&theme=dracula" />
-    </a>
+    </a><br>
     <em style="font-size: 14px; font-family: 'Dosis'; display: inline-block;">NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.</em>
 </section>
 
