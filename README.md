@@ -58,18 +58,18 @@
 </section>
 
 <section class="jokes" align="right">
-    <h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
+    <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
         Some Programming Humor for you 
         <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'>
-    </h1>
+    </h2>
         <img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula"/>
 </section>
 
 <section class="connect" align="left">
-    <h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:500">
+    <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500">
         Connect With Me!
         <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="animated handshake" width="100" height="46">
-    </h1>
+    </h2>
     <table align="left">
         <thead>
           <tr>
@@ -109,160 +109,163 @@
         </tbody>
     </table>
 </section>
-<br>
+<br><br><br><br><br><br><br>
 
 <section class="tech-skills" align="right">
-<h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:500" align="right"> Skills & Tech </h1>
-<table align="right">
-    <thead>
-        <tr>
-            <th style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:900" colspan="4">
-                Skills &amp; Tech
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="font-size:18px; font-family: 'Dosis', sans-serif">Languages</td>
-            <td colspan="3">
-                <img 
-                    src="./Assets/svg/javascript.svg" 
-                    alt="javascript" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/typescript.svg" 
-                    alt="typescript" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/html5.svg" 
-                    alt="html5" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/css3.svg" 
-                    alt="css3" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/node-dot-js.svg" 
-                    alt="nodeJS" 
-                    width="40" 
-                    height="40">
-            </td>
-        </tr>
-        <tr>
-            <td style="font-size:18px; font-family: 'Dosis', sans-serif">
-                Libraries &amp;<br>Frameworks
-            </td>
-            <td colspan="3">
-                <img 
-                    src="./Assets/svg/react.svg" 
-                    alt="react" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/tensorflow.svg" 
-                    alt="tensorflow" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/jest.svg" 
-                    alt="jest" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/express.svg" 
-                    alt="express" 
-                    width="40" 
-                    height="40">
-            </td>
-        </tr>
-        <tr>
-            <td style="font-size:18px; font-family: 'Dosis', sans-serif">
-                Tools
-            </td>
-            <td colspan="3">
-                <img 
-                    src="./Assets/svg/postgresql.svg" 
-                    alt="postgresql" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/postman.svg" 
-                    alt="postman" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/eslint.svg" 
-                    alt="eslint" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/git.svg" 
-                    alt="git" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/github.svg" 
-                    alt="github" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/expo.svg" 
-                    alt="expo" 
-                    width="40" 
-                    height="40">
-            </td>
-        </tr>
-        <tr>
-            <td style="font-size:18px; font-family: 'Dosis', sans-serif">
-                Continuous<br>Delivery
-            </td>
-            <td colspan="3">
-                <img 
-                    src="./Assets/svg/heroku.svg" 
-                    alt="heroku" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/netlify.svg" 
-                    alt="netlify" 
-                    width="40" 
-                    height="40">
-            </td>
-        </tr>
-        <tr>
-            <td style="font-size:18px; font-family: 'Dosis', sans-serif">
-                OS
-            </td>
-            <td colspan="3">
-                <img 
-                    src="./Assets/svg/linux.svg" 
-                    alt="linux" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/linuxmint.svg" 
-                    alt="linuxmint" 
-                    width="40" 
-                    height="40">
-                <img 
-                    src="./Assets/svg/windows.svg" 
-                    alt="windows" 
-                    width="40" 
-                    height="40">
-            </td>
-        </tr>
-    </tbody>
-</table>
+    <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500" align="right">
+        Skills &amp; Tech 
+    </h2>
+    <table align="right">
+        <thead>
+            <tr>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="font-size:18px; font-family: 'Dosis',  sans-serif">
+                    Languages
+                </td>
+                <td colspan="3">
+                    <img 
+                        src="./Assets/svg/javascript.svg" 
+                        alt="javascript" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/typescript.svg" 
+                        alt="typescript" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/html5.svg" 
+                        alt="html5" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/css3.svg" 
+                        alt="css3" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/node-dot-js.svg" 
+                        alt="nodeJS" 
+                        width="40" 
+                        height="40">
+                </td>
+            </tr>
+            <tr>
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif">
+                    Libraries &amp;<br>Frameworks
+                </td>
+                <td colspan="3">
+                    <img 
+                        src="./Assets/svg/react.svg" 
+                        alt="react" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/tensorflow.svg" 
+                        alt="tensorflow" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/jest.svg" 
+                        alt="jest" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/express.svg" 
+                        alt="express" 
+                        width="40" 
+                        height="40">
+                </td>
+            </tr>
+            <tr>
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif">
+                    Tools
+                </td>
+                <td colspan="3">
+                    <img 
+                        src="./Assets/svg/postgresql.svg" 
+                        alt="postgresql" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/postman.svg" 
+                        alt="postman" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/eslint.svg" 
+                        alt="eslint" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/git.svg" 
+                        alt="git" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/github.svg" 
+                        alt="github" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/expo.svg" 
+                        alt="expo" 
+                        width="40" 
+                        height="40">
+                </td>
+            </tr>
+            <tr>
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif">
+                    Continuous<br>Delivery
+                </td>
+                <td colspan="3">
+                    <img 
+                        src="./Assets/svg/heroku.svg" 
+                        alt="heroku" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/netlify.svg" 
+                        alt="netlify" 
+                        width="40" 
+                        height="40">
+                </td>
+            </tr>
+            <tr>
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif">
+                    OS
+                </td>
+                <td colspan="3">
+                    <img 
+                        src="./Assets/svg/linux.svg" 
+                        alt="linux" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/linuxmint.svg" 
+                        alt="linuxmint" 
+                        width="40" 
+                        height="40">
+                    <img 
+                        src="./Assets/svg/windows.svg" 
+                        alt="windows" 
+                        width="40" 
+                        height="40">
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </section>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <section class="stats" align="left">
-    <h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:900"> 
+    <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
         My GitHub Stats 
-    </h1>
+    </h2>
     <a align="left" href="https://github.com/anuraghazra/convoychat">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianne-vela&theme=dracula" />
     </a>
