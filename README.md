@@ -78,10 +78,10 @@
         </thead>
         <tbody>
           <tr>
-            <td style="border-right: 1px solid; overflow:hidden">
+            <td style="border-right: 1px solid">
                 <img src="./Assets/svg/linkedin.svg" alt="linkedin" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden">
+            <td style="font-size: 18px; font-family: 'Dosis'">
                 <a href="https://www.linkedin.com/in/juliannevela" target="_blank" rel="noopener noreferrer">
                     @juliannevela
                 </a>
