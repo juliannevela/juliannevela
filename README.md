@@ -58,7 +58,7 @@
 </section>
 
 <section class="jokes" align="right">
-    <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
+    <h2 align="right" style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
         Some Programming Humor for you 
         <img align="right" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="75px">
     </h2><br>
