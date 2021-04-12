@@ -28,8 +28,8 @@
                 </li>
                 <li>
                     <img 
-                        src="./Assets/svg/graphql.svg" 
-                        alt="graphql" 
+                        src="./Assets/svg/react.svg" 
+                        alt="react" 
                         width="40" 
                         height="40"
                     >
@@ -37,8 +37,8 @@
                 </li>
                 <li>
                     <img 
-                        src="./Assets/svg/graphql.svg" 
-                        alt="graphql" 
+                        src="./Assets/svg/sequelize-original.svg" 
+                        alt="sequelize-original.svg"" 
                         width="40" 
                         height="40"
                     >
