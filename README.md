@@ -88,20 +88,20 @@
             </td>
           </tr>
           <tr>
-            <td style="border-right: 1px solid; overflow:hidden">
+            <td style="border-right: 1px solid">
                 <img src="./Assets/svg/twitter.svg" alt="twitter" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden">
+            <td style="font-size: 18px; font-family: 'Dosis'">
                 <a href="https://www.twitter.com/NessimaSkye" target="_blank" rel="noopener noreferrer">
                     @NessimaSkye
                 </a>
             </td>
           </tr>
           <tr>
-            <td style="border-right: 1px solid; overflow:hidden">
+            <td style="border-right: 1px solid">
                 <img src="./Assets/svg/github.svg" alt="github" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden">
+            <td style="font-size: 18px; font-family: 'Dosis'">
                 <a href="https://www.github.com/julianne-vela" target="_blank" rel="noopener noreferrer">
                     @julianne-vela
                 </a>
@@ -123,10 +123,10 @@
         </thead>
         <tbody>
             <tr>
-                <td style="font-size:18px; font-family: 'Dosis',  sans-serif; text-align:left; overflow:hidden; border-right: 1px solid">
+                <td style="font-size:18px; font-family: 'Dosis',  sans-serif; text-align:left; border-right: 1px solid">
                     Languages
                 </td>
-                <td colspan="3" style="text-align:right; overflow:hidden">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/javascript.svg" 
                         alt="javascript" 
@@ -155,10 +155,10 @@
                 </td>
             </tr>
             <tr>
-                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right; overflow:hidden; border-right: 1px solid">
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right; border-right: 1px solid">
                     Libraries &amp;<br>Frameworks
                 </td>
-                <td colspan="3" style="text-align:right; overflow:hidden">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/react.svg" 
                         alt="react" 
@@ -182,10 +182,10 @@
                 </td>
             </tr>
             <tr>
-                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right; overflow:hidden; border-right: 1px solid">
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right; border-right: 1px solid">
                     Tools
                 </td>
-                <td colspan="3" style="text-align:right; overflow:hidden">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/postgresql.svg" 
                         alt="postgresql" 
@@ -219,10 +219,10 @@
                 </td>
             </tr>
             <tr>
-                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right; overflow:hidden; border-right: 1px solid">
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right; border-right: 1px solid">
                     Continuous<br>Delivery
                 </td>
-                <td colspan="3" style="text-align:right; overflow:hidden">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/heroku.svg" 
                         alt="heroku" 
@@ -236,10 +236,10 @@
                 </td>
             </tr>
             <tr>
-                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right; overflow:hidden; border-right: 1px solid">
+                <td style="font-size:18px; font-family: 'Dosis', sans-serif; text-align:right; border-right: 1px solid">
                     OS
                 </td>
-                <td colspan="3" style="text-align:right; overflow:hidden">
+                <td colspan="3" style="text-align:right">
                     <img 
                         src="./Assets/svg/linux.svg" 
                         alt="linux" 
