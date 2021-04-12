@@ -64,44 +64,44 @@
     </h2><br>
     <img align="right" src="https://readme-jokes.vercel.app/api?theme=dracula"/>
 </section>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <section class="connect" align="left">
     <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500">
         Connect With Me!
         <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="animated handshake" width="100" height="46">
     </h2>
-    <table align="left">
+    <table align="left" style="border-collapse: collapse; border-spacing:0">
         <thead>
           <tr>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>
+            <td style="overflow:hidden; word-break:normal">
                 <img src="./Assets/svg/linkedin.svg" alt="linkedin" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis';">
+            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden; word-break:normal">
                 <a href="https://www.linkedin.com/in/juliannevela" target="_blank" rel="noopener noreferrer">
                     @juliannevela
                 </a>
             </td>
           </tr>
           <tr>
-            <td>
+            <td style="overflow:hidden; word-break:normal">
                 <img src="./Assets/svg/twitter.svg" alt="twitter" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis';">
+            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden; word-break:normal">
                 <a href="https://www.twitter.com/NessimaSkye" target="_blank" rel="noopener noreferrer">
                     @NessimaSkye
                 </a>
             </td>
           </tr>
           <tr>
-            <td>
+            <td style="overflow:hidden; word-break:normal">
                 <img src="./Assets/svg/github.svg" alt="github" width="40" height="40">
             </td>
-            <td style="font-size: 18px; font-family: 'Dosis';">
+            <td style="font-size: 18px; font-family: 'Dosis'; overflow:hidden; word-break:normal">
                 <a href="https://www.github.com/julianne-vela" target="_blank" rel="noopener noreferrer">
                     @julianne-vela
                 </a>
@@ -123,10 +123,10 @@
         </thead>
         <tbody>
             <tr>
-                <td style="font-size:18px; font-family: 'Dosis',  sans-serif">
+                <td style="font-size:18px; font-family: 'Dosis',  sans-serif; text-align:left">
                     Languages
                 </td>
-                <td colspan="3">
+                <td colspan="3" style="align-items:right">
                     <img 
                         src="./Assets/svg/javascript.svg" 
                         alt="javascript" 
