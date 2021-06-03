@@ -1,0 +1,57 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Exo 2", sans-serif;
+}
+
+
+h1 {
+    font-size: 28px; 
+    font-weight: 900;
+    text-align: center;
+}
+
+h2 {
+    font-size:24px; 
+    font-weight:500"
+}
+
+section.about {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+p {
+    font-size:18px; 
+    font-family: 'Dosis', sans-serif;
+}
+
+ul, ol, li {
+    list-style: none;
+    font-size:18px; 
+    font-family: 'Dosis', sans-serif;
+}
+
+.learning img {
+    height: 35px;
+    width: 35px;
+}
+
+.block {
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+}
+
+.group-horizontal {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 5px;
+}

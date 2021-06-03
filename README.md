@@ -1,59 +1,54 @@
-![profile banner](./Assets/JulianneVela-Banner.png)
-
+<link rel="stylesheet" href="./styles/readme.css"></link>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Dosis&family=Exo+2:wght@500;900&display=swap" rel="stylesheet">
 
-<h1 style="font-size:28px; font-family: 'Exo 2', sans-serif; font-weight:900" align="center">
-    Hello. I'm Juli. Nice to meet you!
-</h1>
+![profile banner](./Assets/JulianneVela-Banner.png)
 
-<section class="about" align="left">
-    <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500">
+
+<h1>Hello. I'm Juli. Nice to meet you! &#129299; </h1>
+
+<section class="about">
+    <h2>
         A little about me
     </h2>
-    <p style="font-size:18px; font-family: 'Dosis', sans-serif">
-        I'm a neurodivergent full-stack software engineer. I code to help save the planet, raise awareness for mental health, and encourage other neurodiverse womxn! Please feel free to reach out to me at any of my contacts below. 
-        <br>Happy Coding! :)
-        <br><br>
-        <strong>Currently Learning:</strong> 
-            <ul style="font-size:18px; font-family: 'Dosis', sans-serif">
-                <li>
-                    <img 
-                        src="./Assets/svg/graphql.svg" 
-                        alt="graphql" 
-                        width="40" 
-                        height="40"
-                    >
-                    GraphQL
-                </li>
-                <li>
-                    <img 
-                        src="./Assets/svg/react.svg" 
-                        alt="react" 
-                        width="40" 
-                        height="40"
-                    >
-                    React Native
-                </li>
-                <li>
-                    <img 
-                        src="./Assets/svg/sequelize-original.svg" 
-                        alt="sequelize-original.svg"" 
-                        width="40" 
-                        height="40"
-                    >
-                    Sequelize
-                </li>
-                <li>
-                    <img 
-                        src="./Assets/svg/python.svg" 
-                        alt="python" 
-                        width="40" 
-                        height="40"
-                    >
-                    Python3
-                </li>
-            </ul>
+    <p>
+        I'm a full-stack software engineer with a passion for learning, rabbit holes, and astronomy. I code to help save the planet, raise awareness for mental health, and encourage other neurodiverse womxn along the way! Get in touch with me below and I'll be happy to chat!
+        <span class="block">&#127761; &#127762; &#127763; &#127764; &#127765; &#127766; &#127767; &#127768;</span>
+        <span class="block">Happy Coding and Clear Skies!</span>
+    </p>
+</section>
+
+<section class="learning">
+    <h2>What am I Learning?</h2> 
+    <p class="group-horizontal">
+        <span class="container">
+            <img
+                alt="GraphQL"
+                src="./Assets/svg/graphql.svg"
+            />
+            <span>GraphQL</span>
+        </span>
+        <span class="container">
+            <img
+                alt="react native"
+                src="./Assets/svg/react.svg"
+            />
+            <span>React Native</span>
+        </span>
+        <span class="container">
+            <img
+                alt="python3"
+                src="./Assets/svg/python.svg"
+            />
+            <span>Python3</span>
+        </span>
+        <span class="container">
+            <img
+                alt="tailwindcss"
+                src="./Assets/svg/tailwindcss.svg"
+            />
+            <span>TailwindCSS</span>
+        </span>
     </p>
 </section>
 
