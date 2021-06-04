@@ -1,26 +1,24 @@
-<link rel="stylesheet" href="./styles/readme.css"></link>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Dosis&family=Exo+2:wght@500;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles/readme.css">
 
 ![profile banner](./Assets/JulianneVela-Banner.png)
 
+<h1>Hello. I'm Juli. Nice to meet you! &#128055;</h1>
 
-<h1>Hello. I'm Juli. Nice to meet you! &#129299; </h1>
-
-<section class="about">
-    <h2>
-        A little about me
-    </h2>
-    <p>
+<section class="bio center">
+    <p class="copy">
         I'm a full-stack software engineer with a passion for learning, rabbit holes, and astronomy. I code to help save the planet, raise awareness for mental health, and encourage other neurodiverse womxn along the way! Get in touch with me below and I'll be happy to chat!
         <span class="block">&#127761; &#127762; &#127763; &#127764; &#127765; &#127766; &#127767; &#127768;</span>
         <span class="block">Happy Coding and Clear Skies!</span>
     </p>
 </section>
 
-<section class="learning">
+<hr class="style-six">
+
+<section class="learning left">
     <h2>What am I Learning?</h2> 
-    <p class="group-horizontal">
+    <p class="group-horz copy">
         <span class="container">
             <img
                 alt="GraphQL"
@@ -52,62 +50,58 @@
     </p>
 </section>
 
-<section class="jokes" align="right">
-    <h2 align="right" style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
-        Some Programming Humor for you 
-        <img align="right" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="75px">
-    </h2><br>
-    <img align="right" src="https://readme-jokes.vercel.app/api?theme=dracula"/>
-</section>
-<br><br><br>
+<hr class="style-six">
 
-<section class="connect" align="left">
-    <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500">
-        Connect With Me!
-        <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="animated handshake" width="100" height="46">
+<section class="jokes right">
+    <h2>
+        Some Programming Humor for you
+        <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="40px">
     </h2>
-    <table align="left">
-        <thead>
-          <tr>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="border-right: 1px solid">
-                <img src="./Assets/svg/linkedin.svg" alt="linkedin" width="40" height="40">
-            </td>
-            <td style="font-size: 18px; font-family: 'Dosis'">
-                <a href="https://www.linkedin.com/in/juliannevela" target="_blank" rel="noopener noreferrer">
-                    @juliannevela
-                </a>
-            </td>
-          </tr>
-          <tr>
-            <td style="border-right: 1px solid">
-                <img src="./Assets/svg/twitter.svg" alt="twitter" width="40" height="40">
-            </td>
-            <td style="font-size: 18px; font-family: 'Dosis'">
-                <a href="https://www.twitter.com/NessimaSkye" target="_blank" rel="noopener noreferrer">
-                    @NessimaSkye
-                </a>
-            </td>
-          </tr>
-          <tr>
-            <td style="border-right: 1px solid">
-                <img src="./Assets/svg/github.svg" alt="github" width="40" height="40">
-            </td>
-            <td style="font-size: 18px; font-family: 'Dosis'">
-                <a href="https://www.github.com/julianne-vela" target="_blank" rel="noopener noreferrer">
-                    @julianne-vela
-                </a>
-            </td>
-          </tr>
-        </tbody>
-    </table>
+    <img src="https://readme-jokes.vercel.app/api?theme=dracula"/>
 </section>
-<br><br><br><br><br><br><br>
 
-<section class="tech-skills" align="right">
+<hr class="style-six">
+
+<section class="connect left">
+    <h2>Let's Connect!</h2>
+    <p class="copy">You can find me on any of my socials here: </p>
+    <p class="group-horz copy">
+        <span class="container">
+            <img src="./Assets/svg/linkedin.svg" alt="linkedin" width="40" height="40">
+            <a href="https://www.linkedin.com/in/juliannevela" target="_blank"  rel="noopenernoreferrer">
+                <span class="social">
+                    in/juliannevela
+                </span>
+            </a>
+        </span>
+        <span class="container">
+            <img src="./Assets/svg/github.svg" alt="github" width="40" height="40">
+            <a href="https://www.github.com/juliannevela"  target="_blank" rel="noopenernoreferrer">
+                <span class="social">
+                    @juliannevela
+                </span>
+            </a>
+        </span>
+        <span class="container">
+            <img src="./Assets/svg/twitter.svg" alt="twitter" width="40" height="40">
+            <a href="https://www.twitter.com/NessimaSkye" target="_blank" rel="noopener noreferrer">
+                <span class="social">
+                    @NessimaSkye
+                </span>
+            </a>
+        </span>
+    </p>
+    <p class="copy">
+        ...or feel free to shoot me an email! (opens directly)<br>
+        <a href="mailto:hello@juliannevela.dev" >
+            &#128236; hello@juliannevela.dev
+        </a>
+    </p>
+</section>
+
+<hr class="style-six">
+
+<section class="stack right">
     <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500" align="right">
         Skills &amp; Tech 
     </h2>
@@ -255,19 +249,20 @@
         </tbody>
     </table>
 </section>
-<br><br><br><br><br><br><br><br><br><br><br>
 
-<section class="stats" align="left">
-    <h2 style="font-size:24px; font-family: 'Exo 2', sans-serif; font-weight:500"> 
-        My GitHub Stats 
-    </h2>
-    <a align="left" href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianne-vela&theme=dracula" />
-    </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=julianne-vela&count_private=true&show_icons=true&theme=dracula" />
-    </a><br>
-    <em style="font-size: 14px; font-family: 'Dosis'; display: inline-block;">NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.</em>
+<hr class="style-six">
+
+<section class="stats">
+    <h2>My GitHub Stats</h2>
+    <span class="group-horz">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannevela&theme=dracula" style="margin-right: 4px; width: 37%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=juliannevela&count_private=true&show_icons=true&theme=dracula" width="60%"/>
+    </span>
+    <p class="copy">
+        <em>
+            NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+        </em>
+    </p>
 </section>
 
 <!-- BLOG-POST-LIST:START -->
