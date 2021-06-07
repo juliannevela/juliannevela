@@ -1,0 +1,57 @@
+{
+    "simpleBaseUrl": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/",
+    "devBaseUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/",
+    "badges": {
+        "languages": {
+            "javascript": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "html5": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg",
+            "css3": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg",
+            "solidity": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/solidity.svg",
+            "typescript": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+            "python3": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+        },
+        "librariesFrameworks": {
+            "react": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
+            "redux": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+            "nextjs": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+            "tensorflow": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg",
+            "nodeJS": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg",
+            "express": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
+            "web3": "https://cdn.jsdelivr.net/gh/chainsafe/web3.js/assets/logo/web3js.svg",
+            "truffle": "https://www.trufflesuite.com/img/truffle-logomark.svg",
+            "boltSdk": "https://slack.dev/bolt-js/assets/bolt-js-logo.svg"
+        },
+        "testing": {
+            "jest": "",
+            "qunit": "https://qunitjs.com/img/logo-with-colored-text.svg"
+        },
+        "databaseApi": {
+            "postgreSQL": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg",
+            "mongoDb": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg",
+            "graphql": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg",
+            "rest": ""
+        },
+        "devTools": {
+            "miro": "https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/miro.svg",
+            "git": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg",
+            "github": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg",
+            "eslint": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/eslint.svg",
+            "heroku": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg",
+            "netlify": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/netlify.svg",
+            "vsCode": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg",
+            "postman": "https://www.postman.com/assets/logos/postman-logo-stacked.svg",
+            "slack": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"
+        },
+        "otherSkills": {
+            "agile": "",
+            "pairMobProg": "",
+            "remote": ""
+        },
+        "social": {
+            "linkedin": "https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u",
+            "github": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg",
+            "twitter": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg",
+            "portfolio": ""
+        }
+    }
+}
