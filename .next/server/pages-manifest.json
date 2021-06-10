@@ -1,16 +1,5 @@
 {
   "/_app": "pages/_app.js",
-  "/about/AboutMe": "pages/about/AboutMe.html",
-  "/about/Resume": "pages/about/Resume.html",
-  "/api/apiUtils": "pages/api/apiUtils.js",
-  "/blog/MyBlog": "pages/blog/MyBlog.html",
-  "/": "pages/index.html",
-  "/projects/ClearSkies": "pages/projects/ClearSkies.html",
-  "/projects/CurrentProjects": "pages/projects/CurrentProjects.html",
-  "/projects/ForgottenLogic": "pages/projects/ForgottenLogic.html",
-  "/projects/MyProjects": "pages/projects/MyProjects.html",
-  "/projects/QuackChain": "pages/projects/QuackChain.html",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/_document": "pages/_document.js"
 }

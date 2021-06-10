@@ -1,10 +1,10 @@
 import React from 'react';
 import style from './ComingSoon.module.css';
+import NoSignal from './NoSignal';
 
 const ComingSoon = () => {
     return (
         <main className={style.container}>
-            {/* <section className={style.wrapper}> */}
             <div className={style.rOne}>
                 <figure className={style.wh}></figure>
                 <figure className={style.ye}></figure>
@@ -29,7 +29,7 @@ const ComingSoon = () => {
                 <figure className={style.bl33}></figure>
                 <figure className={style.bk33}></figure>
             </div>
-            {/* </section> */}
+            <NoSignal />
         </main>
     );
 };

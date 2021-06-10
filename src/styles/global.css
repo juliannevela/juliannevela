@@ -1,3 +1,8 @@
+@font-face {
+    font-family: AstroSpace;
+    src: url('../Assets/fonts/AstroSpace-eZ2Bg.ttf');
+}
+
 * {
     box-sizing: border-box;
 }
@@ -14,4 +19,8 @@ div#__next {
 figure {
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: monospace;
 }
