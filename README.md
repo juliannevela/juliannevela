@@ -1,4 +1,4 @@
-![portfolio banner](./Assets/JulianneVela-Banner.png)
+![portfolio banner](./src/Assets/JulianneVela-Banner.png)
 
 <!-- Intro + Bio -->
 <section>
@@ -104,7 +104,7 @@ I'm a full-stack software engineer with a passion for learning &#129504;, rabbit
 </li>
 <li>
 <h3><strong>Testing Suites</strong></h3>
-<img src="./Assets/svg/jestjs.svg" width="35">
+<img src="./src/Assets/svg/jestjs.svg" width="35">
 <img src="https://qunitjs.com/img/logo-with-colored-text.svg" alt="qunit" width="35">
 </li>
 </ul>
