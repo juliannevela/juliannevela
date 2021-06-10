@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body,
+div#__next {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
