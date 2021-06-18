@@ -6,7 +6,7 @@ function HomePage() {
     <>
       <Head>
         <title>Julianne Vela: Software Engineer</title>
-        <meta property="og:title" content="Julianne Vela: Software Engineer" key="title" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
        <ComingSoon />;
     </>
