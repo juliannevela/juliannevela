@@ -1,0 +1,9 @@
+.socialLinks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.socialIcon {
+    width: 30px;
+}

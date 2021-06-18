@@ -32,40 +32,13 @@
     "space-before-function-paren": [
       "error",
       {
-        "async-arrow": "always",
+        "async-arrow": "never",
         "anonymous": "never",
         "named": "never"
       }
     ],
     "eol-last": ["error", "always"],
-    "keyword-spacing": [
-      "error",
-      {
-        "before": true,
-        "after": true,
-        "overrides": {
-          "do": {
-            "after": false
-          },
-          "for": {
-            "after": false
-          },
-          "if": {
-            "after": false
-          },
-          "switch": {
-            "after": false
-          },
-          "while": {
-            "after": false
-          },
-          "catch": {
-            "after": false
-          }
-        }
-      }
-    ],
-    "arrow-spacing": ["error", { "before": true, "after": true }],
+    "arrow-spacing": ["error", { "before": false, "after": false }],
     "array-bracket-spacing": "error",
     "prefer-const": "error",
     "no-var": "error",
