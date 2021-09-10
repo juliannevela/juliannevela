@@ -18,7 +18,7 @@ const SocialGlitch = () => {
                 </a>
             </span>
             <span className={style.socialIcon}>
-                <a href="https://www.twitter.com/nessicodes">
+                <a href="https://www.twitter.com/nessi_codes">
                     <FontAwesomeIcon icon={['fab', 'twitter-square']} />
                 </a>
             </span>
