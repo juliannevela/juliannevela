@@ -18,9 +18,9 @@
 <!-- Currently Learning -->
 <p>
     <h3>I'm currently Learning:</h3>
-    <img alt="GraphQL" src="https://graphql.org/img/logo.svg" height="35px"/>&#8195;
-    <img alt="python3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35px"/>&#8195;
-    <img alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35px"/>
+    <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35px"/>&#8195;
+    <img alt="GraphQL" src="https://graphql.org/img/logo.svg" height="35px"/>
+    
 </p>
 
 </section>
